@@ -1,0 +1,1 @@
+# tn-rest-client-core
